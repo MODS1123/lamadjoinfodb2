@@ -19,7 +19,8 @@
     {
       "code": "NQ1T",
       "timestamp": "2025-10-24T00:21:11.524Z",
-      "used": false
+      "used": true,
+      "usedAt": "2025-10-24T00:22:48.075Z"
     }
   ]
 }
