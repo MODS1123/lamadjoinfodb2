@@ -15,6 +15,11 @@
       "code": "GCG5",
       "timestamp": "2025-10-24T00:13:09.046Z",
       "used": false
+    },
+    {
+      "code": "NQ1T",
+      "timestamp": "2025-10-24T00:21:11.524Z",
+      "used": false
     }
   ]
 }
